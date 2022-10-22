@@ -2,7 +2,7 @@
 
 ## Link
 
-- Live Site URL: [https://harshita1225.github.io/nature-tours/](https://harshita1225.github.io/nature-tours/)
+- Live Site URL: [https://harshita1225.github.io/incredible-india-photo-gallery/](https://harshita1225.github.io/incredible-india-photo-gallery/)
 
 ### project specifications
 
@@ -12,9 +12,6 @@
 - display one category cards
 - handle images in all different layouts
 - Create a responsive page based on the screenshots using flex and media queries
-
-- Notice:
-
 - The navigation should also be fully responsive on all devices
 
 ### Screenshot
@@ -22,16 +19,13 @@
 #### Desktop Version
 
 - All images
-  ![Desktop Layout](./img/Screenshot%202022-10-16%20at%2019-25-45%20Natours%20Exciting%20tours%20for%20adventurous%20people.png)
+  ![Desktop Layout](./img/Screenshot%20from%202022-10-22%2015-25-13.png)
 
-- Nature
-  ![Desktop Layout](./img/Screenshot%202022-10-16%20at%2019-26-10%20Natours%20Exciting%20tours%20for%20adventurous%20people.png)
+- Gallery
+  ![Mobile Layout](./img/Screenshot%20from%202022-10-22%2015-23-24.png)
 
 - Festivals
-  ![Desktop Layout](./img/Screenshot%202022-10-16%20at%2019-26-27%20Natours%20Exciting%20tours%20for%20adventurous%20people.png)
-
-- People
-  ![Desktop Footer](./img/Screenshot%202022-10-16%20at%2019-26-57%20Natours%20Exciting%20tours%20for%20adventurous%20people.png)
+  ![Desktop Layout](./img/Screenshot%20from%202022-10-22%2015-24-17.png)
 
 ### Built with
 
